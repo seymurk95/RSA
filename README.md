@@ -22,7 +22,7 @@ A header file that provides the following utility functions:
 
 How It Works
 1. The program defines the prime numbers `p` and `q`.
-2. Calculates the modulus `n` and Euler's totient `phi`.
+2. Calculates the modulus `n` and Euler's function `phi`.
 3. Computes the private key ‘d’ using a simple iterative approach.
 4. The user-defined message is encrypted using the public key `(e, n)`.
 5. The encrypted message is decrypted using the private key `(d, n)`.
