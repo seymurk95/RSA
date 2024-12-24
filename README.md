@@ -4,7 +4,7 @@ This program demonstrates a basic implementation of RSA encryption and decryptio
 
 There are two files:
 
-1) rsa_main.cpp
+1) rsa.cpp
 Contains the main program logic:
 - Defines values for the RSA algorithm (‘p’, ‘q’, ‘e’, etc.).
 - Reads a plaintext message.
