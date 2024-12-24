@@ -14,11 +14,11 @@ Contains the main program logic:
 2) rsa_library.h
 A header file that provides the following utility functions:
 
-1. **BlockToInt**: Converts a block of characters into a large integer.
-2. **IntToBlock**: Converts a large integer back into a block of characters.
-3. **calculateBlockSize**: Determines the optimal block size based on the modulus ‘n’.
-4. **encryptMessage**: Encrypts a string message into a vector of encrypted blocks using the public key.
-5. **decryptMessage**: Decrypts a vector of encrypted blocks back into the original string using the private key.
+- **BlockToInt**: Converts a block of characters into a large integer.
+- **IntToBlock**: Converts a large integer back into a block of characters.
+- **calculateBlockSize**: Determines the optimal block size based on the modulus ‘n’.
+- **encryptMessage**: Encrypts a string message into a vector of encrypted blocks using the public key.
+- **decryptMessage**: Decrypts a vector of encrypted blocks back into the original string using the private key.
 
 How It Works
 1. The program defines the prime numbers `p` and `q`.
