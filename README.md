@@ -39,7 +39,9 @@ Dependencies
 Example Output
 
 Original message: What I've done I'll face myself To cross out what I've become Erase myself And let go of what I've done
+
 Encrypted message: 1029384756 9876543210 1234567890 ...
+
 Decrypted message: What I've done I'll face myself To cross out what I've become Erase myself And let go of what I've done
 
 
